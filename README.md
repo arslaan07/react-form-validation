@@ -1,3 +1,6 @@
+# App Visuals
+![react-form-validation](https://github.com/arslaan07/react-form-validation/assets/108570502/0f090aa0-6e4b-4459-a3e6-631b02357994)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
